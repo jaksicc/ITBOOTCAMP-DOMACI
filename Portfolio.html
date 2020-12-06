@@ -5,17 +5,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio</title>
     <link rel="stylesheet" href="Portfolio.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
     <header class="header">
         <nav>
-            <h1>Jakšić Dušan</h1><span>About</span><span>Projects</span><span>Contacts</span>
+            <ul>
+                <li>
+                    <a href="#About"><span>About</span></a>
+                </li>
+                <li>
+                    <a href="#Projects"><span>Projects</span></a>
+                </li>
+                <li>
+                    <a href="#Contact"><span>Contacts</span></a>
+                </li>
+                <h2>Jaksic Dusan</h2>
+            </ul>
         </nav>    
     </header>
     <main>
         <section class="section1" id="About">
             <img src="Slika za CV.jpg" alt="PortfolioImage" class="CVImage"/>
-            <span id="abc">jaksicdusan@outlook.com</span>
+            <h2>About:</h2>
+            <ul>
+                <li>
+                    Place of birth:Belgrade, Serbia
+                </li>
+                <li>
+                    Date of birth:26.01.1991
+                </li>
+
+            </ul>
             <h2>Education:</h2>
             <ul>
                 <li>College of Vocational Studies – Belgrade Polytechnic
@@ -29,10 +50,46 @@
                     </ul>
                 </li>
             </ul>
+            <br/><hr/><br/>
         </section>
         <section class="section2" id="Projects">
-            <h1>My Projects</h1>
+            <h1>My Projects:</h1>
+            <div class="Project">
+                <a target="_blank" href="https://github.com/jaksicc/ITBOOTCAMP-DOMACI.git">
+                    <img style="width: 500px;" class="img2" src="Projekti.png" alt="Projekti"/>
+                </a>
+            </div>
         </section>
     </main>
+    <br/><hr/><br/>
+        <section class="section3" id="Contact">
+            <div class="Contact">
+                <h1>Contact:</h1>
+                <ul>
+                    <li>jaksicdusan@outlook.com</li>
+                    <li><a href="https://www.linkedin.com/in/dusan-jaksic-880aa172/">Linkedin</a></li>
+                    <li></li>
+                </ul>
+            </div>
+        </section>
+        <footer class="footer">
+            <ul>
+                <li>
+                    <a href="https://www.facebook.com/" class="fa fa-facebook"></a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/?lang=en" class="fa fa-twitter"></a>
+                </li>
+                <li>
+                    <a href="https://www.google.com/" class="fa fa-google"></a>                
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com" class="fa fa-linkedin"></a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/" class="fa fa-youtube"></a>
+                </li>
+              </ul>
+        </footer> 
 </body>
 </html>
