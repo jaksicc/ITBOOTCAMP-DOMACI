@@ -1,11 +1,11 @@
-function Sati(h){
-    if (h > 0 && h <= 8){
-    return "Dobro jutro"
+function Sati(h) {
+    if (h >= 4 && h < 12) {
+        return "Dobro jutro"
     }
-    else if (h > 8 && h <= 16){
+    else if (h >= 12 && h < 20) {
         return "Dobar dan"
     }
-    else if (h > 16 && h <=24){
+    else if ((h >= 20 && h <= 24) || (h >= 0 && h < 4)) {
         return "Dobro vece"
     }
     else {
@@ -14,5 +14,5 @@ function Sati(h){
 
 }
 
-let x = Sati(17)
+let x = Sati(30)
 console.log(x)
