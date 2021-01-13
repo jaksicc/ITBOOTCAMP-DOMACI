@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    background-color: cadetblue;
+    margin-bottom: 50px;
+}
+#addBtn{
+    padding: 10px;
+}
+
+.centriraj{
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    
+}
+
+#lista div{
+    padding: 15px;
+
+    cursor:pointer;
+
+}
+
+#lista div:nth-child(odd){
+    background-color: rgba(29, 88, 69, 0.39);
+}
+#lista div:hover{
+    background-color: burlywood;
+}
+#lista div.checked{
+    text-decoration: line-through;
+}
+
+/* .delete{
+    position: absolute;
+    right: 600px;
+
+} */
+
+.delete:hover{
+    background-color: crimson;
+    color: white;
+}
+input[type=text]{
+    padding: 10px;
+}
+/* .item.checked{
+    text-decoration: line-through;
+}
+.span-opis.checked{
+    text-decoration: line-through;
+} */
+
+.span-opis{
+    font-size: large;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    width: 40%;
+   
+}
+.checkbox{
+    margin-left: 50px;
+}
+
+.delete{
+    position: absolute;
+    width: 50px;
+    right: 100px;
+    /* padding: 5px; */
+}
