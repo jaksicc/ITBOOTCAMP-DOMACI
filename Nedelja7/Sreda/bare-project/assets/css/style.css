@@ -1,0 +1,11 @@
+img{
+    width: 700px;
+    height: 400px;
+    
+}
+
+.div-item{
+    border: 3px solid black;
+    width: fit-content;
+    height: fit-content;
+}
