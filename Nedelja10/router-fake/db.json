@@ -1,0 +1,33 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "text": "Тврд је орах, воћка чудновата",
+      "author": "П.П.Његош"
+    },
+    {
+      "text": "Bolje vrabac u ruci nego golub na grani",
+      "author": "N.N",
+      "id": 3
+    },
+    {
+      "text": "Ko rano rani,dve srece grabi!",
+      "author": "N.N.",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Pera",
+      "email": "peraperic@pera.com",
+      "password": "asdf1234"
+    },
+    {
+      "username": "Dusan",
+      "email": "dusan@dusan.com",
+      "password": "dusan1991",
+      "id": 2
+    }
+  ]
+}
