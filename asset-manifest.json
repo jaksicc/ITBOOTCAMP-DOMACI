@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/%7BITBOOTCAMP-DOMACI/Nedelja8/mini-kalkulator%7D/static/js/main.99c8c34a.chunk.js",
-    "main.js.map": "/%7BITBOOTCAMP-DOMACI/Nedelja8/mini-kalkulator%7D/static/js/main.99c8c34a.chunk.js.map",
-    "runtime-main.js": "/%7BITBOOTCAMP-DOMACI/Nedelja8/mini-kalkulator%7D/static/js/runtime-main.f3e2bdff.js",
-    "runtime-main.js.map": "/%7BITBOOTCAMP-DOMACI/Nedelja8/mini-kalkulator%7D/static/js/runtime-main.f3e2bdff.js.map",
-    "static/js/2.912dee32.chunk.js": "/%7BITBOOTCAMP-DOMACI/Nedelja8/mini-kalkulator%7D/static/js/2.912dee32.chunk.js",
-    "static/js/2.912dee32.chunk.js.map": "/%7BITBOOTCAMP-DOMACI/Nedelja8/mini-kalkulator%7D/static/js/2.912dee32.chunk.js.map",
-    "index.html": "/%7BITBOOTCAMP-DOMACI/Nedelja8/mini-kalkulator%7D/index.html",
-    "static/js/2.912dee32.chunk.js.LICENSE.txt": "/%7BITBOOTCAMP-DOMACI/Nedelja8/mini-kalkulator%7D/static/js/2.912dee32.chunk.js.LICENSE.txt"
+    "main.js": "/ITBOOTCAMP-DOMACI/Nedelja8/mini-kalkulator/static/js/main.99c8c34a.chunk.js",
+    "main.js.map": "/ITBOOTCAMP-DOMACI/Nedelja8/mini-kalkulator/static/js/main.99c8c34a.chunk.js.map",
+    "runtime-main.js": "/ITBOOTCAMP-DOMACI/Nedelja8/mini-kalkulator/static/js/runtime-main.e220c35a.js",
+    "runtime-main.js.map": "/ITBOOTCAMP-DOMACI/Nedelja8/mini-kalkulator/static/js/runtime-main.e220c35a.js.map",
+    "static/js/2.912dee32.chunk.js": "/ITBOOTCAMP-DOMACI/Nedelja8/mini-kalkulator/static/js/2.912dee32.chunk.js",
+    "static/js/2.912dee32.chunk.js.map": "/ITBOOTCAMP-DOMACI/Nedelja8/mini-kalkulator/static/js/2.912dee32.chunk.js.map",
+    "index.html": "/ITBOOTCAMP-DOMACI/Nedelja8/mini-kalkulator/index.html",
+    "static/js/2.912dee32.chunk.js.LICENSE.txt": "/ITBOOTCAMP-DOMACI/Nedelja8/mini-kalkulator/static/js/2.912dee32.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3e2bdff.js",
+    "static/js/runtime-main.e220c35a.js",
     "static/js/2.912dee32.chunk.js",
     "static/js/main.99c8c34a.chunk.js"
   ]
